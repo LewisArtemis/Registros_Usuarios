@@ -4,12 +4,14 @@
     Author     : SENA
 --%>
 
+<%@page import="java.util.List"%>
+<%@page import="com.miproyecto.modelo.Usuario"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset=UTF-8">
-        <title>Consulta de Uusuario</title>
+        <title>Consulta de Usuario</title>
         <style>
             body {
                 font-family: Arial, sans-serif;
